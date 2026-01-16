@@ -4,8 +4,7 @@ public class hwp implements Runnable {
     //private int number;
    // public hwp(int number){
       // this.number=number;
-    public hwp(){
-    }
+
 
     @Override
     public void run() {
